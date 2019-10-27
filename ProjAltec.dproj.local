@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/24 13:51:08.000.652,=C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/24 13:56:45.000.690,=C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/26 09:36:04.000.242,=C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/26 11:19:14.000.821,C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\untClientes.dfm</Transaction>
+    <Transaction>2019/10/26 11:19:14.000.821,C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\untClientes.pas</Transaction>
+    <Transaction>2019/10/26 11:19:32.000.301,C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\Altec\ProjAltec.dproj</Transaction>
+    <Transaction>2019/10/27 10:25:50.315,=C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\Altec\Unit1.pas</Transaction>
+    <Transaction>2019/10/27 10:33:02.290,=C:\Users\DarcioDS\Documents\Embarcadero\Studio\Projects\Altec\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
